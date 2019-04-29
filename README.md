@@ -63,3 +63,7 @@ Now run the server:
 ```sh
 $ ./vendor/bundle/ruby/#{YOUR_RUBY_VERSION}/bin/jekyll server
 ```
+or
+```sh
+$ bundle exec jekyll server
+```
