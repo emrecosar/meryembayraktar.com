@@ -4,6 +4,8 @@ title: Tarihi Kırıntılar - Barış Bıçakçı
 date: 2019-04-29 16:33:01
 author: Meryem Bayraktar
 meta: "Tarihi Kırıntılar"
+categories: [articles]
+tags: [articles, barisbicakci, baris-bicakci]
 ---
 
 ## Hey

@@ -5,6 +5,8 @@ subtitle: Meryem is going to the Netherlands
 date: 2019-01-31 18:07:33
 author: Meryem Bayraktar
 meta: "Amsterdam"
+categories: [bookshelf]
+tags: [amsterdam]
 ---
 
 ## Hey

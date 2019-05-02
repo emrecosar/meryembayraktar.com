@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Yazı
-permalink: /articles/
+title: Kitaplık
+permalink: /bookshelf/
 ---
+
 <!-- Slider Start -->
 <section id="global-header">
   <div class="container">
@@ -16,7 +17,7 @@ permalink: /articles/
     </div>
   </div>
 </section>
-{% for post in site.categories.articles %}
+{% for post in site.categories.bookshelf %}
 <div class="post-area">
   <a href="{{ post.url | prepend: site.baseurl }}" class="bold">{{ post.title }}</a>
   <p class="post-date">{% include date.html content=post.date %}</p>

@@ -1,0 +1,4 @@
+{{ include.content | date: "%-d" }}
+{% assign m = include.content | date: "%-m" | minus: 1 %}
+{{ site.data.tr.months[m] }}
+{{ include.content | date: "%Y" }}
