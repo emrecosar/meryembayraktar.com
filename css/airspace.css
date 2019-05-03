@@ -138,7 +138,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	wrapper Start
 --*/
 #intro {
-  padding: 100px 0;
+  padding: 50px 0;
 }
 #intro .block h2 {
   padding-top: 35px;
@@ -776,13 +776,16 @@ font header .navbar-default .navbar-nav li a:hover {
 footer {
   background: #F5F5F5;
   text-align: center;
-  padding-top: 48px;
-  padding-bottom: 55px;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 footer p {
   font-size: 13px;
   line-height: 25px;
   color: #919191;
+}
+footer p.small {
+  font-size: 5px;
 }
 footer a {
   color: #595959;
