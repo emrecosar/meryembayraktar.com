@@ -13,8 +13,13 @@ layout: page
             <span>{% include date.html content=page.date %}</span>
           </div>
           <hr />
-          <img src="{{ site.baseurl }}/img/{{ page.image }}">
+          <div class="col-md-5 col-sm-12">
+              <img src="{{ site.baseurl }}/img/{{ page.image }}">
+          </div>
+          <div class="col-md-7 col-sm-12"></div>
+          
           {{ content }}
+          
         </div>
       </div>
     </div>
