@@ -6,11 +6,11 @@ author: Meryem Bayraktar
 meta: "Seni Sevmiyorum"
 categories: [bookshelf]
 tags: [bookshelf, meryembayraktar]
-meta-image: bookshelf/2019-07-17-seni-sevmiyorum-header.jpg
+meta-image: bookshelf/2019-07-17-seni-sevmiyorum.jpg
 ---
 
 <div class="col-md-5 col-sm-12">
-    <img src="/img/bookshelf/2019-07-17-seni-sevmiyorum-header.jpg" alt="Seni Sevmiyorum header image">
+    <img src="/img/bookshelf/2019-07-17-seni-sevmiyorum.jpg" alt="Seni Sevmiyorum image">
 </div>
 <div class="col-md-7 col-sm-12"></div>   
 
