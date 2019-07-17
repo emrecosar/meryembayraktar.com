@@ -6,6 +6,7 @@ author: Meryem Bayraktar
 meta: "Seni Sevmiyorum"
 categories: [bookshelf]
 tags: [bookshelf, meryembayraktar]
+meta-image: bookshelf/2019-07-17-seni-sevmiyorum-header.jpg
 ---
 
 <div class="col-md-5 col-sm-12">
