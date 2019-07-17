@@ -7,6 +7,7 @@ meta: "İlk Sayfası"
 categories: [stories]
 tags: [stories, meryembayraktar]
 image: stories/2019-05-07-ilk-sayfasi-header.jpg
+meta-image: stories/2019-05-07-ilk-sayfasi-header.jpg
 ---
 
 “Gittiğin gün ilk ne yapacaksın?” Amsterdam’a tek yön biletimi aldığım andan itibaren birçok kez duydum bu soruyu. Hiç bir zaman da düşünmedim. "Yazarım herhalde." diyordum cevap olsun diye sadece. 15 gün geçti o uçaktan ineli, kalemi elime alma cesaretini ise ancak gösterebildim.

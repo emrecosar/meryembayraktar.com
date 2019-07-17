@@ -13,7 +13,9 @@ layout: page
             <span>{% include date.html content=page.date %}</span>
           </div>
           <hr />
+          {% if page.image %}
           <img src="{{ site.baseurl }}/img/{{ page.image }}">
+          {% endif %}
           {{ content }}
         </div>
       </div>
