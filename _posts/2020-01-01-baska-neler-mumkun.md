@@ -20,4 +20,4 @@ Herkesin dönüp baktığında en güzeliydi diye hatırladığı yıllar var. 2
 
 Biliyorum ki 2020’de de kontrolun bende olmadığı anlar olacak. Yine yetersizlik hissiyatı peşimi bırakmayacak, ama sadece kendi çabamla başardığımı hissettiğim anlar da olacak. Dönüşmeye çalıştığım kişi için çok şeyden vazgeçmem gereken zamanlar olacak, kendi yolculuğumun parçası olduğuna inandığım şeyler için inatla mücadele etmem gereken zamanlar da. Yeni yıldan elbette ki birçok istediğim var. Kimi çok basit, kimi çok küçük, kimi çok soyut, kimi çok uzak, kimi de bir sonraki sene başında hatırlayamayacağım kadar önemsiz ve şu an'a ait. 
 
-Yazımı buraya kadar sabırla okuyan herkese, kaybettiklerinin kazandıklarına değeyeceği bir yıl dilerim. Benim ise 2020’in ilk gününde aklımda şu iki soru dolanıyor: Daha iyi nasıl olurdu ve başka neler mümkün?
+Yazımı buraya kadar sabırla okuyan herkese, kaybettiklerinin kazandıklarına değeceği bir yıl dilerim. Benim ise 2020’nin ilk gününde aklımda şu iki soru dolanıyor: Daha iyi nasıl olurdu ve başka neler mümkün?
